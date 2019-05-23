@@ -1,4 +1,8 @@
 # Deep Learning & Mutual Information
+PyTorch Implementation based on the forked TensorFlow paper.
+
+Pay attention to the code to calculate the mutual information with two matrices of different shape.
+
 Recreation of figures from 'Opening the Black Box of Deep Neural Networks via Information' (https://arxiv.org/abs/1703.00810)
 
 The main goal of this project was to recreate Figure 2 from the paper. I used the paper's dataset and my simplified version of the source code (https://github.com/ravidziv/IDNNs) to create these plots.
