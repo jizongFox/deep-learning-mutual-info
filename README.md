@@ -1,7 +1,8 @@
 # Deep Learning & Mutual Information
-PyTorch Implementation based on the forked TensorFlow paper.
 
-Pay attention to the code to calculate the mutual information with two matrices of different shape.
+## PyTorch Implementation based on the forked TensorFlow paper.
+
+### Pay attention to the code to calculate the mutual information with two matrices of different shape.
 
 Recreation of figures from 'Opening the Black Box of Deep Neural Networks via Information' (https://arxiv.org/abs/1703.00810)
 
